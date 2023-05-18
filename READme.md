@@ -3,6 +3,12 @@ Criei este repo para nao esquecer de instalar as ferramentas que gosto de ter pa
 Caso a instalacao completa te insteresse, pode rodar os seguintes comandos:
 
 ```
+bash roda_tudo.sh
+```
+
+ou
+
+```
 chmod +x roda_tudo.sh
 ./roda_tudo.sh
 ```
