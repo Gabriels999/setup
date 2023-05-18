@@ -1,4 +1,5 @@
-# Percorre todos os arquivos .sh na pasta
+#!/bin/bash
+
 for file in *.sh; do
     chmod +x "$file"
     ./"$file"
