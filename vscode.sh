@@ -1,2 +1,2 @@
 sudo apt update
-sudo apt install code
+sudo snap install --classic code
